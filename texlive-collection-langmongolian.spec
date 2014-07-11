@@ -7,7 +7,7 @@
 Name:		texlive-collection-langmongolian
 Epoch:		1
 Version:	20120224
-Release:	6
+Release:	7
 Summary:	Mongolian
 Group:		Publishing
 URL:		http://tug.org/texlive
